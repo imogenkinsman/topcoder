@@ -1,4 +1,4 @@
-topcoder
+Topcoder
 ========
 
 Solutions and tests for select Topcoder problems, written in Ruby.
