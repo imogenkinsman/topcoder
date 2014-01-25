@@ -1,4 +1,4 @@
-require_relative '../lib/colorful_road'
+require_relative '../../lib/dp/colorful_road'
 
 describe 'colorful road' do
 

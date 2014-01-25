@@ -1,4 +1,4 @@
-require_relative '../lib/bad_neighbors'
+require_relative '../../lib/dp/bad_neighbors'
 
 describe "bad neighbors" do
 

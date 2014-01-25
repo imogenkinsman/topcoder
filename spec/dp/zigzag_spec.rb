@@ -1,4 +1,4 @@
-require_relative '../lib/zigzag'
+require_relative '../../lib/dp/zigzag'
 
 describe 'zig zag' do
 
