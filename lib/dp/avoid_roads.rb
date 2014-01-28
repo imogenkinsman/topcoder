@@ -30,5 +30,3 @@ def avoid_roads(width, height, bad)
 
   return routes[height][width]
 end
-
-avoid_roads(6, 6, ["0 0 0 1", "6 6 5 6"])
