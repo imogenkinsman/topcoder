@@ -1,4 +1,4 @@
-Topcoder [![Build Status](https://travis-ci.org/zetsubo/topcoder.png?branch=master)](https://travis-ci.org/zetsubo/topcoder)
+Topcoder [![Build Status](https://travis-ci.org/jademcgough/topcoder.png?branch=master)](https://travis-ci.org/jademcgough/topcoder)
 ========
 
 Solutions and tests for select Topcoder problems, written in Ruby.
